@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://tiffanycharles.co.uk/superjp.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/gilajp.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/gojekpot.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/winstrike69.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/jagoan86.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/kaptenjackpot.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/boosterjp.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/kerajaanslot.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/pakong86.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/viral88.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/clan4d.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/dinamit4d.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/elang212.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/gori77.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/viral4d.html/sitemap.xml
+Sitemap: https://tiffanycharles.co.uk/playground88.html/sitemap.xml
